@@ -1,4 +1,4 @@
-# 📊 OIBSIP — Data Analytics Internship
+# 📊 OIBSIP - Data Analytics Internship
 
 This repository contains my **Data Analytics Internship projects** completed as part of the **Oasis Infobyte Internship Program (OIBSIP)**.
 
